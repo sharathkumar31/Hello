@@ -16,6 +16,7 @@
 	CITY:<input type="text" name="city"/>
 	<input type="button" name="Login"/>
 	<input type="submit" value="register">
+
 Hello arun and sharath..	
 	
 	</form>
