@@ -9,5 +9,12 @@
 <body>
 	<h1>Hello world!!!</h1>
 	<input type="submit" value="Login"/>
+	<form action="/jai">
+	USERNAME:<input type="text" name="name">
+	PASSWORD:<input type="password" name="pword">
+	<input type="submit" value="register">
+	
+	
+	</form>
 </body>
 </html>
