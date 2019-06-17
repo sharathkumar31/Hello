@@ -10,8 +10,11 @@
 	<h1>Hello world!!!</h1>
 	<input type="submit" value="Login"/>
 	<form action="/jai">
-	USERNAME:<input type="text" name="name">
-	PASSWORD:<input type="password" name="pword">
+	USERNAME:<input type="text" name="name"/>
+	PASSWORD:<input type="password" name="pword"/>
+	EMAIL:<input type="text" name="mail"/>
+	CITY:<input type="text" name="city"/>
+	<input type="button" name="Login"/>
 	<input type="submit" value="register">
 	
 	
