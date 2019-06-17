@@ -16,7 +16,7 @@
 	CITY:<input type="text" name="city"/>
 	<input type="button" name="Login"/>
 	<input type="submit" value="register">
-	
+	hello code ended
 	
 	</form>
 </body>
